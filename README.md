@@ -1,2 +1,2 @@
 # FifaLiveSport
-aplikasi untuk menonton siaran langsung sepakbola
+aplikasi menonton siaran langsung sepakbola
